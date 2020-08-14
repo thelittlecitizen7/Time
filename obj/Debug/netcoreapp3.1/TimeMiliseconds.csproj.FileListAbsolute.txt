@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.AssemblyInfo.cs
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.exe
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.deps.json
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.runtimeconfig.json
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.runtimeconfig.dev.json
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.dll
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\bin\Debug\netcoreapp3.1\TimeMiliseconds.pdb
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.dll
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.pdb
+C:\Users\thelittlecitizen7\source\repos\TimeMiliseconds\TimeMiliseconds\obj\Debug\netcoreapp3.1\TimeMiliseconds.genruntimeconfig.cache
